@@ -24,3 +24,7 @@
 
 线上转播用的固定会议室: https://us06web.zoom.us/j/9876543210?pwd=MIAOMIAOFAKEPWD
 -->
+
+## 参考文献
+
+- 《喵的线性代数》第三章
