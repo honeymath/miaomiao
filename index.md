@@ -33,4 +33,4 @@ Zoom: https://us06web.zoom.us/j/1234567890?pwd=FAKEPASSWORDAAA
 
 ## 第四讲
 
-喵的正交分解。
+喵的正交分解与投影。
